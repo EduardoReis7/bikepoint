@@ -1,2 +1,2 @@
 # Bikepoint Api
-### Api responsável por mapear e gerenciar bicicletários
+### Api responsable by map and manage bike racks
